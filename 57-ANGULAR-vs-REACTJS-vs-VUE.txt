@@ -1,0 +1,24 @@
+ANGULAR vs REACTJS vs VUEJS
+=============================
+
+                        ANGULAR                     REACTJS                     VUEJS
+                        =========                   ========                    ======
+PROs
+GREAT FOR:          LARGE CODE BASES            STRONG DEV TEAMS                SIMPLE WAY OF
+                                                                                WRITING CODE
+                                                FLEXIBILITY
+
+
+MASS CODE BASE       +FRAMEWORK
+                    +OPINIONATED
+                    +SPECIFIC WAYS
+                        OF DOING THINGS
+
+
+
+CONs
+
+
+
+SENIOR DEV NOTE = These libraries are just tools
+            EACH ONE IS GREAT A SPECIFIC THINGS and has PROs and Cons
