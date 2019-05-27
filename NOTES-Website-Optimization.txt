@@ -1,0 +1,19 @@
+How to Optimize your site (Optimize for performance)
+
+1.Minify Your Code 
+	+ Removes the whitespace(build process)
+		Javascript = Uglify JS https://skalman.github.io/UglyifyJS-Online/
+		-Saves  bytes by removing the whitespace
+		
+2. Minize the images (Compress images for les size
+	+ JPGs - used for Photos, images, many color
+	+ SVG - (Vector Graphics) can expand and they keep the pixels
+	+ GIF -limited number of colors small animations
+	+ PNG - limited colors and smaller in size (logos)
+	
+	+ ADJUST THE SIZE OF IMAGES TO FIT THE SCREEN SIZES
+	1. Make 3 sets of images and media queries for each different screen size (Desktop, Laptop, Mobile)
+	
+3. Remove Image metadata (imgix.com)
+
+	+ verexif.com remove image metadata

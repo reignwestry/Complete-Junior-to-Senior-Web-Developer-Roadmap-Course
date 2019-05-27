@@ -1,4 +1,9 @@
 # IGNORED FILES
 *.code-workspace
+*iml
+
 
 ## INGORED FOLDERS
+travel-guide
+.idea/
+.vscode/
